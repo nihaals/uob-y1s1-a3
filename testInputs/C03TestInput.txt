@@ -1,0 +1,20 @@
+go up
+dead end, go back down
+down again
+I want to go east
+now I would like to go back west
+I want to go north this time
+go back south
+how about northwest
+I'm not lucky, go back southeast
+northeast is my next choice
+let's try south
+west now
+southwest is the way to go
+explore northeast
+ooops, back where I've started, go southeast
+climb up
+maybe north is the correct way
+I'm getting tired, west
+last try, climb up to top floor
+dead end, I give up, quit

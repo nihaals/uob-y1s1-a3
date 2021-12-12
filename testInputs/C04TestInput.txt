@@ -1,0 +1,17 @@
+go up
+go d
+sorry, go back down
+I want to go north
+east
+go to location 74
+74
+go southwest
+go down, no, maybe go up again
+go west
+down is the only way
+climb down again
+this should be ground floor, but I'm not sure where to go next
+I think I'll go northwest
+I'm not getting anywhere, I would like to exit
+goodbye q
+quit
