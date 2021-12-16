@@ -6,7 +6,7 @@ public class Mapping {
 
     public static final int INITIAL_LOCATION = 95;
 
-    private static LocationMap locationMap = new LocationMap();
+    private static final LocationMap locationMap = new LocationMap();
 
     private final HashMap<String, String> vocabulary = new HashMap<>();
 

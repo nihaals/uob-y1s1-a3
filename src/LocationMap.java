@@ -6,7 +6,7 @@ public class LocationMap implements Map<Integer, Location> {
     private static final String LOCATIONS_FILE_NAME = "locations.txt";
     private static final String DIRECTIONS_FILE_NAME = "directions.txt";
 
-    private static HashMap<Integer, Location> locations = new HashMap<>();
+    private static final HashMap<Integer, Location> locations = new HashMap<>();
 
     static {
         FileLogger fileLogger = new FileLogger();
