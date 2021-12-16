@@ -21,7 +21,7 @@ public class LocationMap implements Map<Integer, Location> {
                 String[] locationAndDescription = line.split(",", 2);
                 int locationId = Integer.parseInt(locationAndDescription[0]);
                 String description = locationAndDescription[1];
-                Location location = new Location(locationId, description, new HashMap<>());
+                Location location = new Location(locationId, description, null);
                 locations.put(location.getLocationId(), location);
 
                 String out = location.getLocationId() + ": " + location.getDescription();
