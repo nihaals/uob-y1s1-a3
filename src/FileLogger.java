@@ -6,14 +6,13 @@ public class FileLogger implements Logger {
     private static final String FILE_LOGGER_NAME = "StudentFileOutput.txt";
 
     static {
-        /* TODO
-         * create a new File object for FILE_LOGGER_NAME
-         * if the file already exists, delete it first
-         * use try/catch block
-         */
-        File file = new File(FILE_LOGGER_NAME);
-        if (file.exists()) {
-            file.delete();
+        try {
+            File file = new File(FILE_LOGGER_NAME);
+            if (file.exists()) {
+                file.delete();
+            }
+        } catch (Exception e) {
+            // noop
         }
     }
 
