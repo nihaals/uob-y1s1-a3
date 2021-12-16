@@ -19,12 +19,6 @@ public class FileLogger implements Logger {
 
     @Override
     public void log(String message) {
-        /* TODO
-         * create a new FileWriter in append mode
-         * write the message to file
-         * check the ExpectedOutput files
-         * use try-with-resources/catch block
-         */
         try (FileWriter fileWriter = new FileWriter(FILE_LOGGER_NAME, true)) {
             fileWriter.write(message + "\n");
         } catch (IOException e) {
