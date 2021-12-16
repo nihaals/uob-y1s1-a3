@@ -8,9 +8,7 @@ public class FileLogger implements Logger {
     static {
         try {
             File file = new File(FILE_LOGGER_NAME);
-            if (file.exists()) {
-                file.delete();
-            }
+            if (file.exists()) file.delete();
         } catch (Exception e) {
             // noop
         }
