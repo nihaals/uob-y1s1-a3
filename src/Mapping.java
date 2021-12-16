@@ -47,7 +47,7 @@ public class Mapping {
             final StringBuilder exitsString = new StringBuilder();
             exitsString.append("Available exits are ");
             for (String exit : exits.keySet()) {
-                exitsString.append(exit + ", ");
+                exitsString.append(exit).append(", ");
             }
             fileLogger.log(exitsString.toString());
             consoleLogger.log(exitsString.toString());
