@@ -68,7 +68,7 @@ public class Mapping {
             } else {
                 // Check if the direction contains the key surrounded by spaces
                 String[] words = direction.split(" ");
-                Boolean found = false;
+                boolean found = false;
                 // Use last valid word
                 for (int i = words.length - 1; i >= 0; i--) {
                     String word = words[i];
