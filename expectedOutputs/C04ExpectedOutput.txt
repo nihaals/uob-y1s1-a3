@@ -277,44 +277,44 @@ Available directions:
 100: Q: 0
 100: D: 95
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 You cannot go in that direction
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION NINETY-TWO
-Available exits are Q, S, W, E, SW, SE, D,
+Available exits are Q, S, W, E, SW, SE, D, 
 LOCATION NINETY-THREE
-Available exits are Q, W, S, SW, D,
+Available exits are Q, W, S, SW, D, 
 You cannot go in that direction
 LOCATION NINETY-THREE
-Available exits are Q, W, S, SW, D,
+Available exits are Q, W, S, SW, D, 
 You cannot go in that direction
 LOCATION NINETY-THREE
-Available exits are Q, W, S, SW, D,
+Available exits are Q, W, S, SW, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 You cannot go in that direction
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 You cannot go in that direction
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 You cannot go in that direction
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 You cannot go in that direction
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 EXIT

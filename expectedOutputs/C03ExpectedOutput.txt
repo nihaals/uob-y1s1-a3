@@ -277,43 +277,43 @@ Available directions:
 100: Q: 0
 100: D: 95
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-NINE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-THREE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-FOUR
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-NINE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION EIGHTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION EIGHTY-FOUR
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION NINETY-NINE
-Available exits are Q, N, W, NW, D,
+Available exits are Q, N, W, NW, D, 
 LOCATION NINETY-SIX
-Available exits are Q, N, S, W, NW, SW, D,
+Available exits are Q, N, S, W, NW, SW, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 EXIT

@@ -277,57 +277,57 @@ Available directions:
 100: Q: 0
 100: D: 95
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION NINETY-TWO
-Available exits are Q, S, W, E, SW, SE, D,
+Available exits are Q, S, W, E, SW, SE, D, 
 LOCATION NINETY-THREE
-Available exits are Q, W, S, SW, D,
+Available exits are Q, W, S, SW, D, 
 LOCATION NINETY-SIX
-Available exits are Q, N, S, W, NW, SW, D,
+Available exits are Q, N, S, W, NW, SW, D, 
 LOCATION NINETY-NINE
-Available exits are Q, N, W, NW, D,
+Available exits are Q, N, W, NW, D, 
 LOCATION NINETY-EIGHT
-Available exits are Q, N, W, E, NW, NE, D,
+Available exits are Q, N, W, E, NW, NE, D, 
 LOCATION NINETY-SEVEN
-Available exits are Q, N, E, NE, D,
+Available exits are Q, N, E, NE, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION SEVENTY-EIGHT
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SIXTY-SIX
-Available exits are Q, E, S, SE,
+Available exits are Q, E, S, SE, 
 LOCATION SIXTY-SEVEN
-Available exits are Q, E, W, S, SW, SE,
+Available exits are Q, E, W, S, SW, SE, 
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-THREE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SIXTY-EIGHT
-Available exits are Q, W, E, S, SW, SE,
+Available exits are Q, W, E, S, SW, SE, 
 LOCATION SIXTY-NINE
-Available exits are Q, W, E, S, SW, SE,
+Available exits are Q, W, E, S, SW, SE, 
 LOCATION SEVENTY-THREE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-NINE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION EIGHTY-FOUR
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION EIGHTY-THREE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-SEVEN
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION SEVENTY-TWO
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, 
 LOCATION NINETY-ONE
-Available exits are Q, S, E, SE, D,
+Available exits are Q, S, E, SE, D, 
 LOCATION NINETY-FIVE
-Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D,
+Available exits are Q, N, S, W, E, NW, NE, SW, SE, U, D, 
 LOCATION ONE HUNDRED
-Available exits are Q, D,
+Available exits are Q, D, 
 EXIT
