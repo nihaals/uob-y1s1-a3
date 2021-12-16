@@ -11,6 +11,10 @@ public class FileLogger implements Logger {
          * if the file already exists, delete it first
          * use try/catch block
          */
+        File file = new File(FILE_LOGGER_NAME);
+        if (file.exists()) {
+            file.delete();
+        }
     }
 
     @Override
@@ -21,5 +25,10 @@ public class FileLogger implements Logger {
          * check the ExpectedOutput files
          * use try-with-resources/catch block
          */
+        try (FileWriter fileWriter = new FileWriter(FILE_LOGGER_NAME, true)) {
+            fileWriter.write(message + "\n");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

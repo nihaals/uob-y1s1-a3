@@ -4,5 +4,6 @@ public class ConsoleLogger implements Logger {
         /* TODO
          * print message to console
          */
+        System.out.println(message);
     }
 }
