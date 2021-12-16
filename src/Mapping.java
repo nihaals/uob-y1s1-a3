@@ -59,7 +59,6 @@ public class Mapping {
             // 1. Exact value
             // 2. Exact key
             // 3. Contains key surrounded by spaces
-
             if (vocabulary.containsValue(direction)) {
                 // 1. Exact value
             } else if (vocabulary.containsKey(direction)) {
