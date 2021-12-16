@@ -52,7 +52,7 @@ public class Mapping {
             fileLogger.log(exitsString.toString());
             consoleLogger.log(exitsString.toString());
 
-            String direction = scanner.nextLine().toUpperCase();
+            String direction = scanner.nextLine().trim().toUpperCase();
 
             // Convert to shorthand (value of `vocabulary`)
             // `direction` is:
